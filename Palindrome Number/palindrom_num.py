@@ -9,3 +9,4 @@ class Solution:
             l+=1
             r-=1
         return True
+# it took 2 minutes and 35 seconds
