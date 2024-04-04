@@ -16,7 +16,7 @@ The A2SV Community Problem Solutions repository is designed to help me enhance m
 The A2SV Community Problem Solutions repository accepts solutions from the following platforms:
 
 - LeetCode
-- Codeforce
+- Codeforces
 - Hackerrank
 - and more!
 
